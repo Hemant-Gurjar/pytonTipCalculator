@@ -35,7 +35,3 @@ Each person should pay: $19.93
 2. [How to limit a float to two decimal places in Python](https://www.kite.com/python/answers/how-to-limit-a-float-to-two-decimal-places-in-python)
 
 
-
-# Solution
-
-[https://replit.com/@appbrewery/tip-calculator-end](https://replit.com/@appbrewery/tip-calculator-end)
